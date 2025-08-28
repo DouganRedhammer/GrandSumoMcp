@@ -84,6 +84,6 @@ For issues and questions:
 ### [1.0.0-beta] - 08-27-2025
 
 - Initial release
-- Basic character and guild lookup functionality
+- Basic rikishi details and stats lookup functionality
 - Integration with Claude Desktop
 
