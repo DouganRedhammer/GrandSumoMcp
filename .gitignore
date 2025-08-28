@@ -1,32 +1,23 @@
-# Prerequisites
-*.d
-
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
+bin/
+obj/
+out/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.vs/
+*.vcxproj.*
+*.psess
+*.vspx
+*.vspscc
+*.tmp
+*.bak
+*.swp
+*.log
+*.nupkg
+project.lock.json
+project.fragment.lock.json
+artifacts/
+.DS_Store
+Thumbs.db
+*.pdb
